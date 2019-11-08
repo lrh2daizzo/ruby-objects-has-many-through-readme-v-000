@@ -12,4 +12,4 @@ class Customer
   def self.all
     @@all
   end
- end
+end
